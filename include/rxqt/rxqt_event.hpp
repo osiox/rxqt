@@ -5,7 +5,7 @@
 
 #include <QObject>
 #include <QEvent>
-#include <rxcpp/rx.hpp>
+#include "rxcpp/rx.hpp"
 
 namespace rxqt {
 

@@ -4,7 +4,7 @@
 #define RXQT_SIGNAL_HPP
 
 #include <QObject>
-#include <rxcpp/rx.hpp>
+#include "rxcpp/rx.hpp"
 
 #if defined(_MSC_VER) && (_MSC_VER <= 1800) //Add some CXX14Support for VS2013
 #include "CXX14Support.h"

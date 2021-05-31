@@ -10,7 +10,7 @@
 #endif
 #include <QThread>
 #include <QTimer>
-#include <rxcpp/rx.hpp>
+#include "rxcpp/rx.hpp"
 
 namespace rxqt {
 

@@ -4,7 +4,7 @@
 #define RXQT_UTIL_HPP
 
 #include <QObject>
-#include <rxcpp/rx.hpp>
+#include "rxcpp/rx.hpp"
 
 namespace rxqt {
 
